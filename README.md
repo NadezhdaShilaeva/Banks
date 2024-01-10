@@ -1,5 +1,5 @@
 # Banks
-###### Проект по курсу технологии программирования
+###### Проект по курсам ООП и технологии программирования
 
 ### Использованные технологии
 
@@ -96,3 +96,7 @@
 - #### Отображение информации о счете клиента:
 
 ![showBAInfo](https://github.com/NadezhdaShilaeva/Banks/blob/main/test_imgs/showBAInfo_8.png)
+
+- #### Выход из центральнго банка:
+
+![exitCentralBank](https://github.com/NadezhdaShilaeva/Banks/blob/main/test_imgs/exitCentralBank_9.png)
