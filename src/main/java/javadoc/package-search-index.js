@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.shilaeva"},{"l":"com.shilaeva.consoleInterface"},{"l":"com.shilaeva.entities"},{"l":"com.shilaeva.exceptions"},{"l":"com.shilaeva.interfaces"},{"l":"com.shilaeva.models"},{"l":"com.shilaeva.services"}];updateSearchResults();
